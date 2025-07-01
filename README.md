@@ -1,4 +1,4 @@
-
+This project is a modular, browser-based augmented reality (AR) experience using **AR.js** and **A-Frame**. It tracks a specific barcode marker (`value="45"`) via webcam and renders a dynamic, animated 3D cylinder anchored to that marker.
 
 ## 🚀 Features
 
@@ -38,8 +38,7 @@
 | aframe-extras | Optional loaders and utilities | 
 | HTML/CSS/JS | Modular web development stack | 
 
-Absolutely, Uday! Here's your updated and enhanced README.md tailored to your improved AR barcode project, reflecting the modular structure and added functionality:
-# 🔍 Barcode-Based Augmented Reality with AR.js & A-Frame
 
-This project is a modular, browser-based augmented reality (AR) experience using **AR.js** and **A-Frame**. It tracks a specific barcode marker (`value="45"`) via webcam and renders a dynamic, animated 3D cylinder anchored to that marker.
+
+
 
