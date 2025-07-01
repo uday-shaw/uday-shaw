@@ -18,31 +18,6 @@ This project is a modular, browser-based augmented reality (AR) experience using
 
 ---
 
-## 💻 How to Run
-
-1. **Clone or download the repo.**
-
-2. Serve the files locally:
-   ```bash
-   npx serve .       # or python -m http.server
-
-
-- 
-
----
-
-## 💻 How to Run
-
-1. **Clone or download the repo.**
-
-2. Serve the files locally:
-   ```bash
-   npx serve .       # or python -m http.serverAbsolutely, Uday! Here's your updated and enhanced README.md tailored to your improved AR barcode project, reflecting the modular structure and added functionality:
-# 🔍 Barcode-Based Augmented Reality with AR.js & A-Frame
-
-This project is a modular, browser-based augmented reality (AR) experience using **AR.js** and **A-Frame**. It tracks a specific barcode marker (`value="45"`) via webcam and renders a dynamic, animated 3D cylinder anchored to that marker.
-
----
 
 ## 🚀 Features
 
